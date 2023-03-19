@@ -1,0 +1,3 @@
+".\Objects\main.obj" 
+TO ".\Objects\LED_LCD_8051" Rtx51Tiny 
+PRINT(".\Listings\LED_LCD_8051.m51") RAMSIZE(256) 
